@@ -518,8 +518,7 @@ cat plugins/ralph-wiggum/.claude-plugin/plugin.json
 - [Anthropic 官网](https://www.anthropic.com/)
 - [Claude Code 文档](https://code.claude.com/)
 - [本项目 GitHub](https://github.com/LING71671/Open-ClaudeCode)
-- [讨论区](https://github.com/LING71671/Open-ClaudeCode/issues/2)
 
 ---
 
-*最后更新: 2026-04-01*
+*最后更新: 2026-04-22*
