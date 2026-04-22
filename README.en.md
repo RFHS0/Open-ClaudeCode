@@ -522,7 +522,7 @@ See [LICENSE](LICENSE) and [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for detail
 
 - [Anthropic Official Website](https://www.anthropic.com/)
 - [Claude Code Documentation](https://code.claude.com/)
-- [This Project GitHub](https://github.com/LING71671/Open-ClaudeCode)
+- [This Project GitHub](https://github.com/RFHS0/Open-ClaudeCode/)
 
 ---
 
